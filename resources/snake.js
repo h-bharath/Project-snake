@@ -1,3 +1,6 @@
+//control instructions
+alert("Controls:\n Up Arrow Key\n Down Arrow Key\n Left Arrow Key\n Right Arrow Key\nRefresh browser to replay");
+
 //board
 const blockSize = 25;
 const rows = 20;
